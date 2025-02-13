@@ -23,7 +23,7 @@ export function Menu() {
             <ul class="navbar-nav">
               <li class="nav-item">
                 <Link class="nav-link active" aria-current="page" to="/">
-                  Home
+                  Proveedor
                 </Link>
               </li>
               <li class="nav-item">

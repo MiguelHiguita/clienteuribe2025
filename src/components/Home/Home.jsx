@@ -13,7 +13,7 @@ export function Home() {
             <img
               src="../../../src/assets/pana.png"
               alt="pana"
-              className="img-fluid"
+              className="img-fluid img"
             />
           </div>
           <div className="col-12 col-md-6 align-self-center shadow p-5">
@@ -31,7 +31,7 @@ export function Home() {
 
       <section className="container">
         <div className="row">
-          <div className="col-12         text-center">
+          <div className="col-12 text-center">
             <h3>Registrate como proveedor</h3>
             <hr />
             <p>
