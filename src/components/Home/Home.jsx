@@ -11,7 +11,7 @@ export function Home() {
           <div className="col-12 col-md-6">
             <h3>ProveedorAPP</h3>
             <img
-              src="../../../src/assets/pana.png"
+              src="../../../src/assets/robot-6654032_1280.png"
               alt="pana"
               className="img-fluid img"
             />

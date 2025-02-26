@@ -16,7 +16,7 @@ export function Logistica() {
                     <div className="col-12 col-md-6 d-flex flex-column align-items-center justify-content-center">
                         <h3>LogisticaApp</h3>
                         <img
-                            src="../../../src/assets/angry-cat-meme-sticker-illustration-free-png (1).png"
+                            src="../../../src/assets/warehouse-staff-moving-pallets-and-organizing-boxes-for-shipping-operating-forklifts-for-efficient-logistics-free-png.png"
                             alt="pana"
                             className="img-fluid img"
                         />
