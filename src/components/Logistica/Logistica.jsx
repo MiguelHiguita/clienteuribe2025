@@ -1,7 +1,15 @@
 import "./Logistica.css"
 import { RegistroLogistica } from "../RegistroLogistica/RegistroLogistica"
+import { useState, useEffect } from "react";
 
 export function Logistica() {
+
+    // Creo dos variables de estado para consumir el api
+    const[datosProveedires, setDatosProveedor] = useState([])
+    const[carga, setCarga] = useState(false)
+    
+    useEffect(()=>{},[])
+
     return (
         <>
             <section className="banner-logistica"></section>

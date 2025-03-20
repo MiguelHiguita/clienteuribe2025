@@ -1,7 +1,15 @@
 import "./Home.css";
 import { RegistroProveedor } from "../RegistroProveedor/RegistroProveedor";
+import { useState, useEffect } from "react";
 
 export function Home() {
+
+  // Creo dos variables de estado para consumir el api
+  const[datosProveedires, setDatosProveedor] = useState([])
+  const[carga, setCarga] = useState(false)
+
+  useEffect(()=>{},[])
+
   return (
     <>
       <section className="banner"></section>
